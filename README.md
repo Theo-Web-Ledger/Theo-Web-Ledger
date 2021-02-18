@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, welcome on my Github profile 👋
 
-<!--
-**Theo-Web-Ledger/Theo-Web-Ledger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m working at Ledger, a Paris based company providing secured wallet for cryptocurrencies owners
 
-Here are some ideas to get you started:
+🌱 I’m curious about anything and trying to learn new stuff every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎲 Hobbies : Video games, sports, Tech', start-ups, travel
+
+💬 Ask me about Ledger's daily life, tech challenges and roadmap
+
+📫 How to reach me ? 
+   ° theo.gacouin@ledger.fr
+   ° +33 6 42 41 41 46
+
+🚀 Want to join an exciting adventure ? 
+  ➡ https://www.ledger.com/join-us 
+  ➡ https://www.welcometothejungle.com/fr/companies/ledger
