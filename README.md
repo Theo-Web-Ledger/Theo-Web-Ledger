@@ -8,6 +8,6 @@
 
 💬 Ask me about Ledger's daily life, tech challenges and roadmap
 
-📫 How to reach me ? theo.gacouin@gmail.co | +33 6 42 41 41 46
+📫 How to reach me ? theo.gacouin@gmail.com | +33 6 42 41 41 46
 
 🚀 Want to join an exciting adventure ? https://www.ledger.com/join-us | https://www.welcometothejungle.com/fr/companies/ledger
